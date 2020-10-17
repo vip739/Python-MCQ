@@ -34,3 +34,4 @@ for k, v in questions.items():
     print("\n")
 score = str((correct / total) * 100) + "%"
 print("\nQuiz Complete!\nYour score is " + score + " on this quiz.")
+print("\n Congratulations for completing the Quiz.")
